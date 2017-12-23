@@ -4,6 +4,8 @@ A python library and test script to use the ST VL6180X time-of-flight (TOF) / am
 * Make sure you have i2c enabled and python-rpi.gpio installed on your raspberry pi.
 * The VL6180X is a 2.8 V device - make sure you use a level shifter between the sensor and the 3.3 V Raspberry Pi GPIOs
 
+For a Python 3 compatible version of this code check out Henning Mende's code here: https://github.com/HeMe2/RPI_ST-VL6180X-Python3
+
 Written by Arnie Weber.  BSD license, all text above and below must be included in any redistribution
 
 Copyright (c) 2014-2015 Arnie Weber.  All rights reserved.
